@@ -1,1 +1,11 @@
-Copyright (c) 2008-2009 Genome Research Ltd.
+The copyright of this assembly of tools belongs to Manuel Holtgrewe,
+David Weese, and Stephan Aiche. The copyright of the contained tools
+belongs to the original authors. Please check the corresponding web-
+sites for details.
+
+
+bwa      = https://sourceforge.net/projects/bio-bwa/
+samtools = http://samtools.sourceforge.net
+bcftools = http://samtools.sourceforge.net
+bowtie   = https://sourceforge.net/projects/bowtie-bio/
+bowtie2  = http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
