@@ -9,9 +9,7 @@
 # Create a temporary directory.
 function mk_tmp_dir()
 {
-	THIS_TMP_DIR=$(tempfile)
-	rm -f ${THIS_TMP_DIR}
-	mkdir -p ${THIS_TMP_DIR}
+	THIS_TMP_DIR=$(mktemp -d -t knime_ngs_XXXXX)
 }
 
 # ---------------------------------------------------------------------------
